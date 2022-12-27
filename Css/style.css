@@ -8,6 +8,7 @@
 li,
 i,
 ul,
+a,
 h1,
 p,
 h3,
@@ -305,8 +306,13 @@ ul li{
   margin: 10px 0;
 }
 ul li a{
- color: black;
+  color: black;
+}
+.ContactInformatin ul li a{
+
+
  font-size: 15px;
+ margin-left: 10px;
 
 }
 
